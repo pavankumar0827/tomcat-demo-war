@@ -38,7 +38,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 <!-- INTENTIONAL: wrong junit entry to force you to debug -->
 <dependency>
 <groupId>junit</groupId>
-<artifactId>junit</artifactId>
+<artifactId>junit-jupiter</artifactId>
 <version>5.10.2</version> <!-- wrong group/artifact for JUnit 5; you will replace with junit-jupiter or spring-boot-starter-test -->
 <scope>test</scope>
 </dependency>
